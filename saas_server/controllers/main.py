@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 import functools
 import datetime
 from odoo import api, SUPERUSER_ID
